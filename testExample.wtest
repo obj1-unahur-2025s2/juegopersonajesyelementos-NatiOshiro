@@ -1,4 +1,5 @@
-import example.pepita
+import personajes.*
+import elementos.*
 
 describe "group of tests for pepita" {
 
